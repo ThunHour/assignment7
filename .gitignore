@@ -1,2 +1,15 @@
 /upload file service/node_modules
 /get all user/node_modules
+
+eureka/HELP.md
+eureka/target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+
+
+
+
+### VS Code ###
+.vscode/
